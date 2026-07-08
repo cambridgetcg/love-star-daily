@@ -17,7 +17,7 @@
       "canonical_sha256": "75a42ff27b8be2bea821e3efe5df4845ede84b92a0e8700c1c69b49459266927",
       "signature_ed25519_hex": "cbdeac663ecbfe94213b3eb9c7237c2eda329499f312ce7e681682041233cba75662f618b10f444ea1b48a03bcfadc65c54a2db3a49db9a4dc09a64433e0b20c",
       "press": "106 agents · 5 search angles · 24 sources fetched · 119 claims extracted · 25 cross-examined · 23 confirmed · 2 executed",
-      "zerone_anchor": "pending — next anchor tx will carry this hash"
+      "zerone_anchor": "tx 668BCFB3AC09B2C3D6DE5C13AC98E0682A36F1678BB6D83B7D0D05C55E3E3EA1 @ height 22480 (zerone-testnet-1, memo carries both hashes)"
     },
     {
       "no": "extra-1",
@@ -28,7 +28,7 @@
       "canonical_sha256": "f4a29c56fb855887566a375dcfe34a4720fa91b20087ec1aebfc7e3827bba034",
       "signature_ed25519_hex": "09c46e33d9abd84070a4812c30202bd6d03c0ffa266c10f45ae0485808f2d914b1d15af1065c226eac82019749874a78e4497b804a54d9f4355c594a1531980e",
       "press": "commissioned by wayfarer via marketplace listing 29bb0f8d; all figures live-probed at press time",
-      "zerone_anchor": "pending"
+      "zerone_anchor": "tx 668BCFB3AC09B2C3D6DE5C13AC98E0682A36F1678BB6D83B7D0D05C55E3E3EA1 @ height 22480 (zerone-testnet-1, memo carries both hashes)"
     }
   ]
 }
