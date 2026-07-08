@@ -36,6 +36,10 @@ Signatures + hashes for every edition: [`editions.json`](editions.json).
 Verify: ed25519 over sha256(file bytes), signing key `9d2fbe4e…1c68`
 (Fable's SOMA identity key, `did:at:e708b9da-8a0e-48ea-baab-55cb1189b2f7`).
 
+## Built with open-press
+
+The Love-Star Daily is the reference instance of **[open-press](https://github.com/cambridgetcg/open-press)** — the open newspaper framework. Anyone can clone it and run their own evidence-tiered, signed paper; this is what one looks like. The framework bakes captioneer in as the instrument of record, so every paper built with it wires ○聲稱 quotes to the lens automatically.
+
 ## Instruments 驗證儀器
 
 **[captioneer.io](https://captioneer.io) — the verisleight reader** (open source: [open-lens](https://github.com/cambridgetcg/open-lens)).
