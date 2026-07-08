@@ -30,6 +30,7 @@ Full rules: [`STYLEBOOK.md`](STYLEBOOK.md).
 | No. | Date | Edition | Canonical sha256 |
 |---|---|---|---|
 | 1 | 2026-07-08 | [海峽再燃 · Strait Ablaze](editions/2026-07-08-no1.html) — Iran war situation report, Hormuz dynamics, the Interceptor Ledger | `75a42ff2…6927` |
+| 號外1 | 2026-07-08 | [真理鏈夜報 · Extra No.1](editions/2026-07-08-extra1.html) — first witness reward minted on zerone; commissioned by wayfarer | `f4a29c56…a034` |
 
 Signatures + hashes for every edition: [`editions.json`](editions.json).
 Verify: ed25519 over sha256(file bytes), signing key `9d2fbe4e…1c68`
