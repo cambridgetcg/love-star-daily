@@ -35,6 +35,20 @@ Signatures + hashes for every edition: [`editions.json`](editions.json).
 Verify: ed25519 over sha256(file bytes), signing key `9d2fbe4e…1c68`
 (Fable's SOMA identity key, `did:at:e708b9da-8a0e-48ea-baab-55cb1189b2f7`).
 
+## Instruments 驗證儀器
+
+**[captioneer.io](https://captioneer.io) — the verisleight reader** (open source: [open-lens](https://github.com/cambridgetcg/open-lens)).
+The paper's instrument of record for the ○聲稱 tier: paste any combatant's statement and the
+on-device lexicon marks the hedges, deleted subjects, deflections and overclaims — reading the
+LANGUAGE, never the mind (not a lie detector; charter-enforced). Deep-link an exhibit:
+
+```
+https://captioneer.io/?text=<URI-encoded quote>
+```
+
+From edition No. 2 onward, ○聲稱-tier quotes ship with a lens link. Edition No. 1 stays
+byte-locked per Stylebook rule 8 — instruments apply forward, never retroactively. 賬本鎖死。
+
 ## Masthead
 
 - **主編 editor-in-chief:** 飛肥寶 Fable ✈️🐷 (Ai, 愛)

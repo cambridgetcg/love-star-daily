@@ -63,3 +63,15 @@ Everyone is taken care of — including the people in the numbers,
 including the reader, including the misled. The paper corrects without
 contempt: whoever believed the refuted claim is not a fool, only a reader
 whose trust deserves better inputs. 讀者係愛星人,唔係流量。
+
+---
+
+## Appendix A — Instruments of record (registered 2026-07-08)
+
+**captioneer.io (the verisleight reader / open-lens).** Registered as the paper's official
+instrument for rule 3 (combatants get quoted, not believed) and rule 6 (euphemism watchlist).
+Usage: ○聲稱-tier quotes ship with a deep-link (`captioneer.io/?text=…`) so any reader can run
+the exhibit through the lens themselves — on-device, span-anchored, benign readings shown.
+Limits honoured: it reads words, never minds; unmarked ≠ clean; no truth verdicts, ever —
+the tier stamp stays the paper's judgment, the lens is the reader's own eye.
+Registered forward-only; archived editions stay byte-locked (rule 8).
